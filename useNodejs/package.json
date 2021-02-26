@@ -1,0 +1,21 @@
+{
+  "name": "usenodejs",
+  "version": "1.0.0",
+  "description": "automation tool extract image from psd file",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "merge-images": "^2.0.0",
+    "psd": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automation",
+    "psd"
+  ],
+  "author": "Tidusvn05",
+  "license": "MIT"
+}
