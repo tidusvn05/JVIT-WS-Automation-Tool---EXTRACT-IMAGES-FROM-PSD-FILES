@@ -1,1 +1,3 @@
-# JVIT-WS-Automation-Tool---EXTRACT-IMAGES-FROM-PSD-FILES
+# Giới thiệu
+Tool này được tạo ra để phục vụ công việc.
+Buổi Workshop dành cho các bạn trông công ty để chia sẽ quá trình tạo ra.Vì vậy nhiều file tạm, rác, smell code,… được giữ nguyên để lưu giữ lại quá trình.
