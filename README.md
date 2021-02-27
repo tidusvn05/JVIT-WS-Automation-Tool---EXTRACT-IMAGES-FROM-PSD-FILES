@@ -6,4 +6,6 @@ Buổi Workshop dành cho các bạn trông công ty để chia sẽ quá trình
 # Thông tin công ty JV-IT Holdings
 Website URL: https://jv-it.jp/
 
-
+# Author
+Tandat (Tidusvn05)
+tandat@jv-it.com.vn (tidusvn05@gmail.com)

@@ -24,6 +24,9 @@ infos = []
 # os.mkdir('./out') 
 
 def main():
+  # run all in psd_files dir
+  scan_path = "%s/" % constant.SRC_DIR;
+
   # scan_path = "%s/Task3281PC" % constant.SRC_DIR;
   # scan_path = "%s/test" % constant.SRC_DIR;
   # scan_path = "%s/02.dogfood" % constant.SRC_DIR;
@@ -34,7 +37,7 @@ def main():
   # scan_path = "%s/07.all-in-one" % constant.SRC_DIR;
   # scan_path = "%s/08.wine" % constant.SRC_DIR;
   
-  scan_path = "%s/demo1" % constant.SRC_DIR;
+  # Run specify subdir
   # scan_path = "%s/demo2" % constant.SRC_DIR;
 
   # print(scan_path)
